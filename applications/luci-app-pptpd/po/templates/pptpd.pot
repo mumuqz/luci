@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Users Manager"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "User name"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
+
+msgid "Automatically"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Enable VPN Server"
+msgstr ""
+
+msgid "Server IP"
+msgstr ""
+
+msgid "VPN Server IP address, it not required."
+msgstr ""
+
+msgid "Client IP"
+msgstr ""
+
+msgid "VPN Client IP address, it not required."
+msgstr ""
+
+msgid "DNS IP address"
+msgstr ""
+
+msgid "This will be sent to the client, it not required."
+msgstr ""
+
+msgid "Enable MPPE Encryption"
+msgstr ""
+
+msgid "Allows 128-bit encrypted connection."
+msgstr ""
+
+msgid "Enable NAT Forward"
+msgstr ""
+
+msgid "Allows forwarding traffic."
+msgstr ""
+
+msgid "Enable remote service"
+msgstr ""
+
+msgid "Allows remote computers on the Internet to connect to VPN Server."
+msgstr ""
+
+msgid "Online Users"
+msgstr ""
+
+msgid "Blacklist"
+msgstr ""
+
+msgid "Add to Blacklist"
+msgstr ""
+
+msgid "Remove from Blacklist"
+msgstr ""
+
+msgid "Forced offline"
+msgstr ""
